@@ -1,0 +1,2 @@
+# kurz
+my first repositar
